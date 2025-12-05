@@ -1,15 +1,16 @@
-import { Person } from "./Person";
-import type { Person as PersonType } from "../data";
+import { Enhetsdata } from "../data/model";
+import { Org } from "./Org";
+
 type ListProps = {
-  people: PersonType[];
+  orgs: Enhetsdata;
 };
 
-export const List: React.FC<ListProps> = ({ people }) => {
+export const List: React.FC<ListProps> = ({ orgs }) => {
   return (
     <div>
       <ul className="flex flex-wrap gap-40 justify-center">
-        {people.map((person, index) => (
-          <Person key={index} person={person} />
+        {orgs.map((org, index) => (
+          <Org key={index} org={org} />
         ))}
       </ul>
     </div>

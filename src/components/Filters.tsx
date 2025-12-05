@@ -1,6 +1,6 @@
 import { Select } from "@fremtind/jkl-select-react";
 import { Filters as TypeFilters } from "../App";
-
+import { Organisasjonskode, ORGANISASJONSKODER } from "../data/model.ts";
 type FiltersProps = {
   filters: TypeFilters;
   setFilters: React.Dispatch<React.SetStateAction<TypeFilters>>;
@@ -29,7 +29,7 @@ export const Filters: React.FC<FiltersProps> = ({
               value: "LIST",
             },
             {
-              label: "Tilfeldig person",
+              label: "Tilfeldig organisasjon",
               value: "RANDOM",
             },
           ] as { label: string; value: "RANDOM" | "LIST" }[]
@@ -37,61 +37,19 @@ export const Filters: React.FC<FiltersProps> = ({
       />
       <Select
         name="view"
-        value={filters.gender}
+        value={filters.form}
         onChange={(e) =>
           setFilters({
             ...filters,
-            /* @ts-expect-error dette er riktig */
-            gender: e.target.value,
+            form: (e.target.value as Organisasjonskode) || "alle",
           })
         }
-        label="Kjønn"
+        label="Selskapsform"
         items={[
+          ...ORGANISASJONSKODER,
           {
             label: "Alle",
             value: "alle",
-          },
-          {
-            label: "Mann",
-            value: "mann",
-          },
-          {
-            label: "Kvinne",
-            value: "kvinne",
-          },
-        ]}
-      />
-      <Select
-        name="view"
-        value={filters.status}
-        onChange={(e) =>
-          setFilters({
-            ...filters,
-            /* @ts-expect-error dette er riktig */
-            status: e.target.value,
-          })
-        }
-        label="Status"
-        items={[
-          {
-            label: "Alle",
-            value: "alle",
-          },
-          {
-            label: "Levende",
-            value: "levende",
-          },
-          {
-            label: "Død",
-            value: "doed",
-          },
-          {
-            label: "Utflyttet",
-            value: "utflyttet",
-          },
-          {
-            label: "Midlertidig",
-            value: "midlertidig",
           },
         ]}
       />

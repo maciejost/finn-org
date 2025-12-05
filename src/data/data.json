@@ -1,0 +1,3692 @@
+[
+  {
+    "forretningsadresse": {
+      "kommune": "BERGEN",
+      "postnummer": "5115",
+      "adresse": ["Barkaleitet 5"],
+      "kommunenummer": "4601",
+      "poststed": "ULSET"
+    },
+    "naeringBeskrivelse": ["Allmennlegetjenester"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["86.210"],
+    "navn": "LIVSGLAD FORDEKT KATT VURDERING",
+    "organisasjonsnummer": "313324435",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "INDRE ØSTFOLD",
+      "postnummer": "1850",
+      "adresse": ["Kirkåsveien 1B"],
+      "kommunenummer": "3118",
+      "poststed": "MYSEN"
+    },
+    "naeringBeskrivelse": [
+      "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["62.200"],
+    "navn": "OVERBEVISENDE UNG TIGER AS",
+    "organisasjonsnummer": "214522152",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "1162",
+      "adresse": ["c/o Kompatibelbønne", "Ekebergveien 182"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": [
+      "All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["74.990"],
+    "navn": "VARM TREG KATT FRISYRE",
+    "organisasjonsnummer": "311267531",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0680",
+      "adresse": ["Høgdaveien 30B"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": ["Fysioterapi- og ergoterapitjenester"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["86.950"],
+    "navn": "RAFFINERT OPPLYST TIGER AS",
+    "organisasjonsnummer": "314469097",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "STOR-ELVDAL",
+      "postnummer": "2477",
+      "adresse": ["Rondeveien 679"],
+      "kommunenummer": "3423",
+      "poststed": "SOLLIA"
+    },
+    "naeringBeskrivelse": ["Utvikling og salg av byggeprosjekter"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["68.120"],
+    "navn": "LEVENDE AKTPÅGIVENDE TIGER AS",
+    "organisasjonsnummer": "211888482",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "TØNSBERG",
+      "postnummer": "3157",
+      "adresse": ["Hortensveien 220"],
+      "kommunenummer": "3905",
+      "poststed": "BARKÅKER"
+    },
+    "naeringBeskrivelse": ["Andre helsetjenester ellers"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["86.993"],
+    "navn": "KJENT FALSK TIGER AS",
+    "organisasjonsnummer": "311565141",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "VERDAL",
+      "postnummer": "7655",
+      "adresse": ["Leinstrøa 18"],
+      "kommunenummer": "5038",
+      "poststed": "VERDAL"
+    },
+    "naeringBeskrivelse": ["Annen teknisk konsulentvirksomhet"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["71.129"],
+    "navn": "FLINK INTERESSANT KATT PLASS",
+    "organisasjonsnummer": "311054155",
+    "registreringsdatoEnhetsregisteret": "2021-03-12"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "RAUMA",
+      "postnummer": "6300",
+      "adresse": ["Gjerteigen 7"],
+      "kommunenummer": "1539",
+      "poststed": "ÅNDALSNES"
+    },
+    "naeringBeskrivelse": ["Kulturskoleundervisning til barn og unge"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["85.521"],
+    "navn": "UTGÅTT UINTERESSERT FJELLREV",
+    "organisasjonsnummer": "314670329",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ANDØY",
+      "postnummer": "8485",
+      "adresse": ["Bankveien 10"],
+      "kommunenummer": "1871",
+      "poststed": "DVERBERG"
+    },
+    "naeringBeskrivelse": [
+      "Skapende kunstnerisk virksomhet innenfor visuell kunst"
+    ],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["90.120"],
+    "navn": "VIRTUELL LYSEBLÅ KATT KAPPE",
+    "organisasjonsnummer": "312938545",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "LILLESTRØM",
+      "postnummer": "1900",
+      "adresse": ["Åsveien 67"],
+      "kommunenummer": "3205",
+      "poststed": "FETSUND"
+    },
+    "naeringBeskrivelse": ["Teknisk prøving og analyse"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["71.200"],
+    "navn": "TYPISK AUTONOM FJELLREV",
+    "organisasjonsnummer": "315302846",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "RANA",
+      "postnummer": "8725",
+      "adresse": ["v/ Allmektig Sentrum", "Flostrandveien 348"],
+      "kommunenummer": "1833",
+      "poststed": "UTSKARPEN"
+    },
+    "naeringBeskrivelse": [],
+    "organisasjonsform": {
+      "kode": "ANNA",
+      "beskrivelse": "Annen juridisk person"
+    },
+    "naeringKode": [],
+    "navn": "INNSIKTSFULL ORANSJE INSEKT",
+    "organisasjonsnummer": "313311473",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "MASFJORDEN",
+      "postnummer": "5986",
+      "adresse": ["Yndesdalsvegen 1057"],
+      "kommunenummer": "4634",
+      "poststed": "HOSTELAND"
+    },
+    "naeringBeskrivelse": ["Annet installasjonsarbeid"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["43.240"],
+    "navn": "EVENTYRLIG MORALSK KATT FEBRUAR",
+    "organisasjonsnummer": "311488899",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "KARMØY",
+      "postnummer": "4280",
+      "adresse": ["Sørhålandvegen 13"],
+      "kommunenummer": "1149",
+      "poststed": "SKUDENESHAVN"
+    },
+    "naeringBeskrivelse": ["Bearbeiding av metaller"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["25.530"],
+    "navn": "KULTURELL MODERAT TIGER AS",
+    "organisasjonsnummer": "312914506",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "STAVANGER",
+      "postnummer": "4024",
+      "adresse": ["Solbakkeveien 8"],
+      "kommunenummer": "1103",
+      "poststed": "STAVANGER"
+    },
+    "naeringBeskrivelse": [
+      "Dyrking av korn, unntatt ris, belgvekster og oljeholdige vekster",
+      "Avvirkning"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["01.110", "02.200"],
+    "navn": "LILLA TREKANTET KATT BILLE",
+    "organisasjonsnummer": "311452754",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "LUNNER",
+      "postnummer": "2720",
+      "adresse": ["Nedre Ulven veg 108"],
+      "kommunenummer": "3234",
+      "poststed": "GRINDVOLL"
+    },
+    "naeringBeskrivelse": ["Pr og kommunikasjonstjenester"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["73.300"],
+    "navn": "FANTASTISK MÅTEHOLDEN TIGER AS",
+    "organisasjonsnummer": "213400932",
+    "registreringsdatoEnhetsregisteret": "2021-03-15"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "TVEDESTRAND",
+      "postnummer": "4910",
+      "adresse": ["Vestre Oddenøya"],
+      "kommunenummer": "4213",
+      "poststed": "LYNGØR"
+    },
+    "naeringBeskrivelse": ["Svinehold"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["01.460"],
+    "navn": "OVERSIKTLIG MOTSTANDSDYKTIG KATT VURDERING",
+    "organisasjonsnummer": "315090199",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "HAUGESUND",
+      "postnummer": "5519",
+      "adresse": ["Merkurvegen 12"],
+      "kommunenummer": "1106",
+      "poststed": "HAUGESUND"
+    },
+    "naeringBeskrivelse": ["Aktiviteter i arbeidstakerorganisasjoner"],
+    "organisasjonsform": {
+      "kode": "FLI",
+      "beskrivelse": "Forening/lag/innretning"
+    },
+    "naeringKode": ["94.200"],
+    "navn": "MELANKOLSK SKRAVLETE APE",
+    "organisasjonsnummer": "311767119",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "VINDAFJORD",
+      "postnummer": "5583",
+      "adresse": ["Ølmedalsvegen 476"],
+      "kommunenummer": "1160",
+      "poststed": "VIKEDAL"
+    },
+    "naeringBeskrivelse": ["Kjøp og salg av egen fast eiendom"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["68.110"],
+    "navn": "SYMPATISK UMOTIVERT TIGER AS",
+    "organisasjonsnummer": "315595363",
+    "registreringsdatoEnhetsregisteret": "2021-03-20"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0287",
+      "adresse": ["Huk aveny 20B"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": ["Kjøp og salg av egen fast eiendom"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["68.110"],
+    "navn": "PERFEKT KORT TIGER AS",
+    "organisasjonsnummer": "311482246",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "adresse": ["Nedre Toppen"],
+      "poststed": "44 -460 Piwniczna"
+    },
+    "naeringBeskrivelse": ["Oppføring av bygninger"],
+    "organisasjonsform": {
+      "kode": "NUF",
+      "beskrivelse": "Norskregistrert utenlandsk foretak"
+    },
+    "naeringKode": ["41.000"],
+    "navn": "ORDENTLIG ALDRENDE STRUTS SPC",
+    "organisasjonsnummer": "313915425",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ORKLAND",
+      "postnummer": "7336",
+      "adresse": [],
+      "kommunenummer": "5059",
+      "poststed": "MELDAL"
+    },
+    "naeringBeskrivelse": ["Dagaktivitetstilbud tilpasset målgrupper"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["88.102"],
+    "navn": "LYSELILLA INKONSEKVENT FJELLREV",
+    "organisasjonsnummer": "314691458",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "adresse": []
+    },
+    "naeringBeskrivelse": [
+      "Boretjenester tilknyttet utvinning av råolje og naturgass"
+    ],
+    "organisasjonsform": {
+      "kode": "AAFY",
+      "beskrivelse": "Underenhet til ikke-næringsdrivende"
+    },
+    "naeringKode": ["09.101"],
+    "navn": "ØKONOMISK SPED STRUTS LTD",
+    "organisasjonsnummer": "314438310",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "STANGE",
+      "postnummer": "2345",
+      "adresse": ["v/ Lydigsøvnigrask Dam", "Gaustadvegen 301"],
+      "kommunenummer": "3413",
+      "poststed": "ÅDALSBRUK"
+    },
+    "naeringBeskrivelse": [],
+    "organisasjonsform": {
+      "kode": "ESEK",
+      "beskrivelse": "Eierseksjonssameie"
+    },
+    "naeringKode": [],
+    "navn": "VENSTRE SMIDIG LØVE SAMEIE",
+    "organisasjonsnummer": "313380149",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BERGEN",
+      "postnummer": "5093",
+      "adresse": ["Hagerups vei 27"],
+      "kommunenummer": "4601",
+      "poststed": "BERGEN"
+    },
+    "naeringBeskrivelse": ["Annen detaljhandel med andre nye varer"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["47.780"],
+    "navn": "IDIOTSIKKER NØDVENDIG MINK ANS",
+    "organisasjonsnummer": "311912747",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ELVERUM",
+      "postnummer": "2408",
+      "adresse": ["c/o Bemerkelsesverdig Fiskekrok", "Stedet"],
+      "kommunenummer": "3420",
+      "poststed": "ELVERUM"
+    },
+    "naeringBeskrivelse": ["Fysioterapi- og ergoterapitjenester"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["86.950"],
+    "navn": "TRU FORNEM KATT KRYDDERMÅL",
+    "organisasjonsnummer": "212670332",
+    "registreringsdatoEnhetsregisteret": "2021-03-12"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ENGERDAL",
+      "postnummer": "2440",
+      "adresse": ["v/ Typisk Bøyejordbruk", "Vestveien 574"],
+      "kommunenummer": "3425",
+      "poststed": "ENGERDAL"
+    },
+    "naeringBeskrivelse": ["Aktiviteter i arbeidstakerorganisasjoner"],
+    "organisasjonsform": {
+      "kode": "AAFY",
+      "beskrivelse": "Underenhet til ikke-næringsdrivende"
+    },
+    "naeringKode": ["94.200"],
+    "navn": "VIDSYNT UVIRKSOM APE",
+    "organisasjonsnummer": "315385660",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "INDRE ØSTFOLD",
+      "postnummer": "1827",
+      "adresse": ["Elvestadveien 767"],
+      "kommunenummer": "3118",
+      "poststed": "HOBØL"
+    },
+    "naeringBeskrivelse": [],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": [],
+    "navn": "USNOBBET SØVNIG TIGER AS",
+    "organisasjonsnummer": "313525341",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "SELBU",
+      "postnummer": "7580",
+      "adresse": ["Rødbergvegen 15"],
+      "kommunenummer": "5032",
+      "poststed": "SELBU"
+    },
+    "naeringBeskrivelse": ["Utenriks sjøfart med gods"],
+    "organisasjonsform": {
+      "kode": "KS",
+      "beskrivelse": "Kommandittselskap"
+    },
+    "naeringKode": ["50.201"],
+    "navn": "DYR AKADEMISK GEPARD KS",
+    "organisasjonsnummer": "310749834",
+    "registreringsdatoEnhetsregisteret": "2021-03-17"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ENEBAKK",
+      "postnummer": "1911",
+      "adresse": ["Nygårdsveien 62"],
+      "kommunenummer": "3220",
+      "poststed": "FLATEBY"
+    },
+    "naeringBeskrivelse": ["Avvirkning"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["02.200"],
+    "navn": "ROLIG PRESIS KATT JUBEL",
+    "organisasjonsnummer": "312587580",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "AURSKOG-HØLAND",
+      "postnummer": "1930",
+      "adresse": ["c/o Skånsom Harejakt", "Elveveien 3"],
+      "kommunenummer": "3226",
+      "poststed": "AURSKOG"
+    },
+    "naeringBeskrivelse": ["Andre egeninvesteringsselskaper"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["64.323"],
+    "navn": "MORSOM TAPPER TIGER AS",
+    "organisasjonsnummer": "315669057",
+    "registreringsdatoEnhetsregisteret": "2021-03-20"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "STAVANGER",
+      "postnummer": "4012",
+      "adresse": ["Kirkebakken 17"],
+      "kommunenummer": "1103",
+      "poststed": "STAVANGER"
+    },
+    "naeringBeskrivelse": ["Ordinær grunnskoleundervisning"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["85.201"],
+    "navn": "LIVLIG LENGRE FJELLREV",
+    "organisasjonsnummer": "314541227",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "LARVIK",
+      "postnummer": "3295",
+      "adresse": ["Brunlanesveien 1174"],
+      "kommunenummer": "3909",
+      "poststed": "HELGEROA"
+    },
+    "naeringBeskrivelse": [
+      "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer"
+    ],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["62.200"],
+    "navn": "ETTERPÅKLOK SAMARBEIDSVILLIG KATT BLY",
+    "organisasjonsnummer": "310040347",
+    "registreringsdatoEnhetsregisteret": "2021-03-12"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0788",
+      "adresse": ["v/ Autonom Advokatmandarin", "Jerpefaret 22F"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": ["Bygging av jernbaner og undergrunnsbaner"],
+    "organisasjonsform": {
+      "kode": "ANS",
+      "beskrivelse": "Ansvarlig selskap med solidarisk ansvar"
+    },
+    "naeringKode": ["42.120"],
+    "navn": "LEDENDE FAMILIÆR MINK ANS",
+    "organisasjonsnummer": "312707918",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ALSTAHAUG",
+      "postnummer": "8880",
+      "adresse": ["Vestre Bergetstedet"],
+      "kommunenummer": "1820",
+      "poststed": "BÆRØYVÅGEN"
+    },
+    "naeringBeskrivelse": ["Tjenester i barneverninstitusjoner"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["87.991"],
+    "navn": "NYTTIG USYMMETRISK FJELLREV",
+    "organisasjonsnummer": "315276357",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BERGEN",
+      "postnummer": "5258",
+      "adresse": ["Ådlandsstraumen 2 C"],
+      "kommunenummer": "4601",
+      "poststed": "BLOMSTERDALEN"
+    },
+    "naeringBeskrivelse": ["Andre helsetjenester ellers"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["86.993"],
+    "navn": "TYKKHUDET LIVSGLAD KATT OSTEKAKE",
+    "organisasjonsnummer": "311162659",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "SANDEFJORD",
+      "postnummer": "3235",
+      "adresse": ["Kamfjordveien 5"],
+      "kommunenummer": "3907",
+      "poststed": "SANDEFJORD"
+    },
+    "naeringBeskrivelse": [
+      "Bedriftsrådgivning og annen administrativ rådgivning"
+    ],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["70.200"],
+    "navn": "DYKTIG UNGT TIGER AS",
+    "organisasjonsnummer": "310845191",
+    "registreringsdatoEnhetsregisteret": "2021-03-15"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "STEINKJER",
+      "postnummer": "7713",
+      "adresse": ["Skjeftevegen 34"],
+      "kommunenummer": "5006",
+      "poststed": "STEINKJER"
+    },
+    "naeringBeskrivelse": ["Allmennlegetjenester"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["86.210"],
+    "navn": "SMISKENDE ANALYSERENDE KATT FANT",
+    "organisasjonsnummer": "312890569",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BERGEN",
+      "postnummer": "5052",
+      "adresse": ["Gimlebakken 19E"],
+      "kommunenummer": "4601",
+      "poststed": "BERGEN"
+    },
+    "naeringBeskrivelse": ["Uoppgitt"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["00.000"],
+    "navn": "KANTETE UTNYTTENDE TIGER AS",
+    "organisasjonsnummer": "312642646",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "RANDABERG",
+      "postnummer": "4071",
+      "adresse": ["Visteveien 21"],
+      "kommunenummer": "1127",
+      "poststed": "RANDABERG"
+    },
+    "naeringBeskrivelse": ["Maler- og glassarbeid"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["43.340"],
+    "navn": "KONGE TØRST TIGER AS",
+    "organisasjonsnummer": "215062562",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "STAVANGER",
+      "postnummer": "4085",
+      "adresse": ["Hundvågveien 41"],
+      "kommunenummer": "1103",
+      "poststed": "HUNDVÅG"
+    },
+    "naeringBeskrivelse": ["Tjenester tilknyttet fiske, fangst og akvakultur"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["03.300"],
+    "navn": "MODERAT ENKEL FJELLREV",
+    "organisasjonsnummer": "312365103",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0590",
+      "adresse": ["Årvollveien 55"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": [
+      "Engroshandel med spesialisert vareutvalg ikke nevnt annet sted"
+    ],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["46.890"],
+    "navn": "SØVNIG BEMERKELSESVERDIG KATT FAGRESSURS",
+    "organisasjonsnummer": "313254348",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0159",
+      "adresse": ["Grensen 17"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": ["Produksjon av elektrisitet fra vannkraft"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["35.121"],
+    "navn": "AUTORISERT KONVENSJONELL FJELLREV",
+    "organisasjonsnummer": "312142589",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "GRIMSTAD",
+      "postnummer": "4885",
+      "adresse": ["Solberg 22"],
+      "kommunenummer": "4202",
+      "poststed": "GRIMSTAD"
+    },
+    "naeringBeskrivelse": [],
+    "organisasjonsform": {
+      "kode": "ESEK",
+      "beskrivelse": "Eierseksjonssameie"
+    },
+    "naeringKode": [],
+    "navn": "SAMEIET AUTONOM LØSNINGSORIENTERT LØVE",
+    "organisasjonsnummer": "312648709",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BERGEN",
+      "postnummer": "5165",
+      "adresse": ["Wallemsskogen 5"],
+      "kommunenummer": "4601",
+      "poststed": "LAKSEVÅG"
+    },
+    "naeringBeskrivelse": [],
+    "organisasjonsform": {
+      "kode": "ESEK",
+      "beskrivelse": "Eierseksjonssameie"
+    },
+    "naeringKode": [],
+    "navn": "ALTETENDE VRIEN LØVE SAMEIE",
+    "organisasjonsnummer": "313496953",
+    "registreringsdatoEnhetsregisteret": "2021-03-17"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "FLEKKEFJORD",
+      "postnummer": "4438",
+      "adresse": ["Sira gård 4"],
+      "kommunenummer": "4207",
+      "poststed": "SIRA"
+    },
+    "naeringBeskrivelse": ["Utleie av egen eller leid fast eiendom"],
+    "organisasjonsform": {
+      "kode": "NUF",
+      "beskrivelse": "Norskregistrert utenlandsk foretak"
+    },
+    "naeringKode": ["68.200"],
+    "navn": "INTERESSERT PRATSOM STRUTS AS",
+    "organisasjonsnummer": "314034694",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "HERØY",
+      "postnummer": "6091",
+      "adresse": ["v/ Sigen Famøs Brybilde", "Borgarhaugvegen 8"],
+      "kommunenummer": "1515",
+      "poststed": "FOSNAVÅG"
+    },
+    "naeringBeskrivelse": ["Aktiviteter i idrettslag og -klubber"],
+    "organisasjonsform": {
+      "kode": "AAFY",
+      "beskrivelse": "Underenhet til ikke-næringsdrivende"
+    },
+    "naeringKode": ["93.120"],
+    "navn": "LYSEGUL REDELIG APE",
+    "organisasjonsnummer": "312118343",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "TRONDHEIM",
+      "postnummer": "7091",
+      "adresse": ["Romemyra 12"],
+      "kommunenummer": "5001",
+      "poststed": "TILLER"
+    },
+    "naeringBeskrivelse": [
+      "Melkeproduksjon på storfe og oppdrett av melkekyr",
+      "Avvirkning"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["01.410", "02.200"],
+    "navn": "GNIEN LOGISK KATT AKROBAT",
+    "organisasjonsnummer": "315081017",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "TYNSET",
+      "postnummer": "2500",
+      "adresse": ["c/o Selvtilfreds Avanse", "Brennrud 59"],
+      "kommunenummer": "3427",
+      "poststed": "TYNSET"
+    },
+    "naeringBeskrivelse": ["Aktiviteter i andre medlemsorganisasjoner ellers"],
+    "organisasjonsform": {
+      "kode": "FLI",
+      "beskrivelse": "Forening/lag/innretning"
+    },
+    "naeringKode": ["94.992"],
+    "navn": "LEDENDE FLINK APE",
+    "organisasjonsnummer": "314064348",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "TROMSØ",
+      "postnummer": "9030",
+      "adresse": ["Sjursnesvegen 1620"],
+      "kommunenummer": "5501",
+      "poststed": "SJURSNES"
+    },
+    "naeringBeskrivelse": [
+      "Bedriftsrådgivning og annen administrativ rådgivning"
+    ],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["70.200"],
+    "navn": "SLAPP ORDINÆR KATT HYBELKANIN",
+    "organisasjonsnummer": "213567012",
+    "registreringsdatoEnhetsregisteret": "2021-03-12"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BERGEN",
+      "postnummer": "5179",
+      "adresse": ["Nedre Stiaberget 81"],
+      "kommunenummer": "4601",
+      "poststed": "GODVIK"
+    },
+    "naeringBeskrivelse": [
+      "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+    ],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["90.201"],
+    "navn": "INKLUDERENDE HENSYNSFULL KATT SERVIETT",
+    "organisasjonsnummer": "310957887",
+    "registreringsdatoEnhetsregisteret": "2021-03-12"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "STJØRDAL",
+      "postnummer": "7525",
+      "adresse": ["Indre Holmen"],
+      "kommunenummer": "5035",
+      "poststed": "FLORNES"
+    },
+    "naeringBeskrivelse": [
+      "Hogging og bearbeiding av monument- og bygningsstein"
+    ],
+    "organisasjonsform": {
+      "kode": "NUF",
+      "beskrivelse": "Norskregistrert utenlandsk foretak"
+    },
+    "naeringKode": ["23.700"],
+    "navn": "EGOISTISK SAMTIDIG STRUTS LTD",
+    "organisasjonsnummer": "310153001",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ARENDAL",
+      "postnummer": "4824",
+      "adresse": ["Adamshaven 37"],
+      "kommunenummer": "4203",
+      "poststed": "BJORBEKK"
+    },
+    "naeringBeskrivelse": ["Etterbehandling av tekstiler"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["13.300"],
+    "navn": "OVERBEVISENDE MODERAT TIGER AS",
+    "organisasjonsnummer": "310134155",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BALSFJORD",
+      "postnummer": "9056",
+      "adresse": ["Malangsveien 2619"],
+      "kommunenummer": "5532",
+      "poststed": "MORTENHALS"
+    },
+    "naeringBeskrivelse": ["Aktiviteter i borettslag og boligsameier"],
+    "organisasjonsform": {
+      "kode": "AAFY",
+      "beskrivelse": "Underenhet til ikke-næringsdrivende"
+    },
+    "naeringKode": ["97.001"],
+    "navn": "ALVORLIG BERIKENDE HEST BORETTSLAG",
+    "organisasjonsnummer": "311203568",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "SKIEN",
+      "postnummer": "3718",
+      "adresse": ["Skoglivegen 6"],
+      "kommunenummer": "4003",
+      "poststed": "SKIEN"
+    },
+    "naeringBeskrivelse": ["Psykiatriske sykehustjenester for barn og ungdom"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["86.104"],
+    "navn": "ALTETENDE HÅNDFAST FJELLREV",
+    "organisasjonsnummer": "315147867",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "TRONDHEIM",
+      "postnummer": "7036",
+      "adresse": ["Merkurvegen 15"],
+      "kommunenummer": "5001",
+      "poststed": "TRONDHEIM"
+    },
+    "naeringBeskrivelse": [
+      "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler"
+    ],
+    "organisasjonsform": {
+      "kode": "ANS",
+      "beskrivelse": "Ansvarlig selskap med solidarisk ansvar"
+    },
+    "naeringKode": ["47.110"],
+    "navn": "FATTET UROLIG MINK ANS",
+    "organisasjonsnummer": "312858339",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "HARSTAD",
+      "postnummer": "9407",
+      "adresse": ["Heggen alle 72B"],
+      "kommunenummer": "5503",
+      "poststed": "HARSTAD"
+    },
+    "naeringBeskrivelse": ["Rengjøring av bygninger"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["81.210"],
+    "navn": "USELVISK KLAM KATT KIWI",
+    "organisasjonsnummer": "214401282",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ALTA",
+      "postnummer": "9512",
+      "adresse": ["Svaneveien 1"],
+      "kommunenummer": "5601",
+      "poststed": "ALTA"
+    },
+    "naeringBeskrivelse": [],
+    "organisasjonsform": {
+      "kode": "AAFY",
+      "beskrivelse": "Underenhet til ikke-næringsdrivende"
+    },
+    "naeringKode": [],
+    "navn": "SAMEIET EGOISTISK GRÅ LØVE",
+    "organisasjonsnummer": "311360736",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0790",
+      "adresse": ["Voksenkollveien 32"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": ["Juridisk tjenesteyting"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["69.100"],
+    "navn": "SANNSYNLIG HUMORISTISK KATT LEGE",
+    "organisasjonsnummer": "310888958",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "HAUGESUND",
+      "postnummer": "5525",
+      "adresse": ["Breidablikgata 220"],
+      "kommunenummer": "1106",
+      "poststed": "HAUGESUND"
+    },
+    "naeringBeskrivelse": ["Utleie av egen eller leid fast eiendom"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["68.200"],
+    "navn": "STOLT GLAD TIGER AS",
+    "organisasjonsnummer": "313725502",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "KRISTIANSAND",
+      "postnummer": "4626",
+      "adresse": ["Kartheia 65 D"],
+      "kommunenummer": "4204",
+      "poststed": "KRISTIANSAND S"
+    },
+    "naeringBeskrivelse": ["Detaljhandel med motorvogner"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["47.810"],
+    "navn": "RIK TOPP KATT TELEFONKATALOG",
+    "organisasjonsnummer": "313647951",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ULLENSAKER",
+      "postnummer": "2055",
+      "adresse": ["Postmannsvegen 3"],
+      "kommunenummer": "3209",
+      "poststed": "NORDKISA"
+    },
+    "naeringBeskrivelse": [
+      "Bedriftsrådgivning og annen administrativ rådgivning"
+    ],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["70.200"],
+    "navn": "FREIDIG UTMERKET TIGER AS",
+    "organisasjonsnummer": "310019739",
+    "registreringsdatoEnhetsregisteret": "2021-03-17"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "LARVIK",
+      "postnummer": "3292",
+      "adresse": ["Vardesvingen 14"],
+      "kommunenummer": "3909",
+      "poststed": "STAVERN"
+    },
+    "naeringBeskrivelse": ["Frisering og barbering"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["96.210"],
+    "navn": "SJENERT FORETAKSOM KATT PRIS",
+    "organisasjonsnummer": "315003067",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "KARMØY",
+      "postnummer": "4275",
+      "adresse": ["Fredheimvegen 16"],
+      "kommunenummer": "1149",
+      "poststed": "SÆVELANDSVIK"
+    },
+    "naeringBeskrivelse": ["Juridisk tjenesteyting"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["69.100"],
+    "navn": "TENTATIV EKTE HUND DA",
+    "organisasjonsnummer": "311315064",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "HAMAR",
+      "postnummer": "2319",
+      "adresse": ["Furnesvegen 226A"],
+      "kommunenummer": "3403",
+      "poststed": "HAMAR"
+    },
+    "naeringBeskrivelse": ["Takarbeid"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["43.410"],
+    "navn": "FLEKSIBEL KONTANT KATT AKVARIEFISK",
+    "organisasjonsnummer": "310386308",
+    "registreringsdatoEnhetsregisteret": "2021-03-12"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "TYSVÆR",
+      "postnummer": "5560",
+      "adresse": ["Nordre Bakkenkvervet"],
+      "kommunenummer": "1146",
+      "poststed": "NEDSTRAND"
+    },
+    "naeringBeskrivelse": ["Annen detaljhandel med andre nye varer"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["47.780"],
+    "navn": "UTGÅTT ANONYM TIGER AS",
+    "organisasjonsnummer": "311537768",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ALVER",
+      "postnummer": "5938",
+      "adresse": ["Radøyvegen 550"],
+      "kommunenummer": "4631",
+      "poststed": "SÆBØVÅGEN"
+    },
+    "naeringBeskrivelse": ["Andre egeninvesteringsselskaper"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["64.323"],
+    "navn": "FILOSOFISK PATENT TIGER AS",
+    "organisasjonsnummer": "312204932",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ØRSTA",
+      "postnummer": "6153",
+      "adresse": ["Holmegata 6K"],
+      "kommunenummer": "1520",
+      "poststed": "ØRSTA"
+    },
+    "naeringBeskrivelse": ["Logistikktjenester"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["52.250"],
+    "navn": "AVANSERT BETYDELIG TIGER AS",
+    "organisasjonsnummer": "315448131",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "NORDREISA",
+      "postnummer": "9154",
+      "adresse": ["Reisadalen 563"],
+      "kommunenummer": "5544",
+      "poststed": "STORSLETT"
+    },
+    "naeringBeskrivelse": [
+      "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["86.930"],
+    "navn": "ALTETENDE TØRST KATT BÆRTUR",
+    "organisasjonsnummer": "212369292",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "INDRE ØSTFOLD",
+      "postnummer": "1825",
+      "adresse": ["v/ Forståelsesfull Etasje", "Kråkerudbakken 50"],
+      "kommunenummer": "3118",
+      "poststed": "TOMTER"
+    },
+    "naeringBeskrivelse": ["Oppføring av bygninger"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["41.000"],
+    "navn": "KONVENSJONELL LYS KATT PEDAGOG",
+    "organisasjonsnummer": "312630303",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "VOSS",
+      "postnummer": "5700",
+      "adresse": ["Uttrågata 42"],
+      "kommunenummer": "4621",
+      "poststed": "VOSS"
+    },
+    "naeringBeskrivelse": ["Etterbehandling av tekstiler"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["13.300"],
+    "navn": "OPPGITT KVART TIGER AS",
+    "organisasjonsnummer": "315593220",
+    "registreringsdatoEnhetsregisteret": "2021-03-20"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BERGEN",
+      "postnummer": "5264",
+      "adresse": ["Vestlivegen 50"],
+      "kommunenummer": "4601",
+      "poststed": "GARNES"
+    },
+    "naeringBeskrivelse": ["Annen teknisk konsulentvirksomhet"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["71.129"],
+    "navn": "TALEFØR KUNSTIG TIGER AS",
+    "organisasjonsnummer": "313666662",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "FLEKKEFJORD",
+      "postnummer": "4436",
+      "adresse": ["Mydlandsvegen 80"],
+      "kommunenummer": "4207",
+      "poststed": "GYLAND"
+    },
+    "naeringBeskrivelse": ["Utleie av egen eller leid fast eiendom"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["68.200"],
+    "navn": "UPRAKTISK KREATIV TIGER AS",
+    "organisasjonsnummer": "310723894",
+    "registreringsdatoEnhetsregisteret": "2021-03-15"
+  },
+  {
+    "forretningsadresse": {
+      "adresse": ["c/o Rikdiverse Bånd", "Skråningen"],
+      "poststed": "US-20098 PENNSYLVANIA"
+    },
+    "naeringBeskrivelse": ["Uoppgitt"],
+    "organisasjonsform": {
+      "kode": "NUF",
+      "beskrivelse": "Norskregistrert utenlandsk foretak"
+    },
+    "naeringKode": ["00.000"],
+    "navn": "LEKKER UMOTIVERT STRUTS LLC",
+    "organisasjonsnummer": "313329909",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "TRONDHEIM",
+      "postnummer": "7540",
+      "adresse": ["Hallsetbakken 4"],
+      "kommunenummer": "5001",
+      "poststed": "KLÆBU"
+    },
+    "naeringBeskrivelse": [],
+    "organisasjonsform": {
+      "kode": "ESEK",
+      "beskrivelse": "Eierseksjonssameie"
+    },
+    "naeringKode": [],
+    "navn": "SØVNIG ARITMETISK LØVE SAMEIE",
+    "organisasjonsnummer": "313591883",
+    "registreringsdatoEnhetsregisteret": "2021-03-15"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "TRONDHEIM",
+      "postnummer": "7055",
+      "adresse": ["Ranheimsvegen 222B"],
+      "kommunenummer": "5001",
+      "poststed": "RANHEIM"
+    },
+    "naeringBeskrivelse": [
+      "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["62.200"],
+    "navn": "FIOLETT VOKSENDE KATT BART",
+    "organisasjonsnummer": "314816870",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "SANDNES",
+      "postnummer": "4318",
+      "adresse": ["Folkvordveien 86"],
+      "kommunenummer": "1108",
+      "poststed": "SANDNES"
+    },
+    "naeringBeskrivelse": [
+      "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+    ],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["90.201"],
+    "navn": "TOM RESERVERT KATT HONNING",
+    "organisasjonsnummer": "312256258",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "MOSS",
+      "postnummer": "1531",
+      "adresse": ["Jeløgata 6"],
+      "kommunenummer": "3103",
+      "poststed": "MOSS"
+    },
+    "naeringBeskrivelse": ["Utleie av egen eller leid fast eiendom"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["68.200"],
+    "navn": "LYSEBLÅ OVEREKSPONERT TIGER AS",
+    "organisasjonsnummer": "313661636",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "GJØVIK",
+      "postnummer": "2818",
+      "adresse": ["Kroken 6B"],
+      "kommunenummer": "3407",
+      "poststed": "GJØVIK"
+    },
+    "naeringBeskrivelse": ["Kjøp og salg av egen fast eiendom"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["68.110"],
+    "navn": "SKAPENDE UPERSONLIG TIGER AS",
+    "organisasjonsnummer": "314127463",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "HUSTADVIKA",
+      "postnummer": "6443",
+      "adresse": [],
+      "kommunenummer": "1579",
+      "poststed": "TORNES I ROMSDAL"
+    },
+    "naeringBeskrivelse": ["Utleie av egen eller leid fast eiendom"],
+    "organisasjonsform": {
+      "kode": "BA",
+      "beskrivelse": "Selskap med begrenset ansvar"
+    },
+    "naeringKode": ["68.200"],
+    "navn": "EKSEMPLARISK SYMPATISK SKILPADDE",
+    "organisasjonsnummer": "313148807",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "SØR-ODAL",
+      "postnummer": "2100",
+      "adresse": ["Osvegen 8"],
+      "kommunenummer": "3415",
+      "poststed": "SKARNES"
+    },
+    "naeringBeskrivelse": [
+      "Formidlingstjenester tilknyttet serveringsvirksomhet"
+    ],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["56.400"],
+    "navn": "HUSLØS IHERDIG KATT VARDE",
+    "organisasjonsnummer": "311055216",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "LØRENSKOG",
+      "postnummer": "1461",
+      "adresse": ["Asbjørnsens vei 105"],
+      "kommunenummer": "3222",
+      "poststed": "LØRENSKOG"
+    },
+    "naeringBeskrivelse": ["Ferdiggjøring før trykking og publisering"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["18.130"],
+    "navn": "NYSGJERRIG DYKTIG KATT HJØRNESTEIN",
+    "organisasjonsnummer": "310844950",
+    "registreringsdatoEnhetsregisteret": "2021-03-12"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0349",
+      "adresse": ["Nedre Dalbotnetstrømmen"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": ["Aktiviteter i andre medlemsorganisasjoner ellers"],
+    "organisasjonsform": {
+      "kode": "FLI",
+      "beskrivelse": "Forening/lag/innretning"
+    },
+    "naeringKode": ["94.992"],
+    "navn": "INTRIKAT TØRST APE",
+    "organisasjonsnummer": "310877131",
+    "registreringsdatoEnhetsregisteret": "2021-03-12"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "LARVIK",
+      "postnummer": "3269",
+      "adresse": ["Frankendalsveien 67"],
+      "kommunenummer": "3909",
+      "poststed": "LARVIK"
+    },
+    "naeringBeskrivelse": ["Detaljhandel med tekstiler og utstyrsvarer"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["47.510"],
+    "navn": "VERD FARLIG KATT APPELL",
+    "organisasjonsnummer": "313319032",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "adresse": ["Østre Ødemarka"],
+      "poststed": "533 57 HISINGS BACKA"
+    },
+    "naeringBeskrivelse": ["Logistikktjenester"],
+    "organisasjonsform": {
+      "kode": "NUF",
+      "beskrivelse": "Norskregistrert utenlandsk foretak"
+    },
+    "naeringKode": ["52.250"],
+    "navn": "VENNLIG UNORMAL STRUTS AB",
+    "organisasjonsnummer": "313803473",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0890",
+      "adresse": ["Ytre Holmen"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": [],
+    "organisasjonsform": {
+      "kode": "ESEK",
+      "beskrivelse": "Eierseksjonssameie"
+    },
+    "naeringKode": [],
+    "navn": "SAMEIET FREIDIG FARLIG LØVE",
+    "organisasjonsnummer": "213181912",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "VAKSDAL",
+      "postnummer": "5725",
+      "adresse": ["Jamnevegen 11"],
+      "kommunenummer": "4628",
+      "poststed": "VAKSDAL"
+    },
+    "naeringBeskrivelse": ["Utleie av egen eller leid fast eiendom"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["68.200"],
+    "navn": "UNYTTIG PUSLETE TIGER AS",
+    "organisasjonsnummer": "311721569",
+    "registreringsdatoEnhetsregisteret": "2021-03-17"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BJØRNAFJORDEN",
+      "postnummer": "5211",
+      "adresse": ["Nordmarka 79"],
+      "kommunenummer": "4624",
+      "poststed": "OS"
+    },
+    "naeringBeskrivelse": ["Andre helsetjenester ellers"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["86.993"],
+    "navn": "POSITIV SIST KATT RINGDUE",
+    "organisasjonsnummer": "311751603",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "NORDRE FOLLO",
+      "postnummer": "1425",
+      "adresse": ["Øvre Leiren"],
+      "kommunenummer": "3207",
+      "poststed": "SKI"
+    },
+    "naeringBeskrivelse": ["Detaljhandel med klær"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["47.710"],
+    "navn": "FRUKTBAR VISSEN KATT FOT",
+    "organisasjonsnummer": "310533459",
+    "registreringsdatoEnhetsregisteret": "2021-03-12"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "FLÅ",
+      "postnummer": "3539",
+      "adresse": ["Austsidevegen 216"],
+      "kommunenummer": "3320",
+      "poststed": "FLÅ"
+    },
+    "naeringBeskrivelse": [
+      "Andre tjenester tilknyttet finansieringsvirksomhet og kollektive investeringsfond"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["66.190"],
+    "navn": "UNDERLIG SKÅNSOM TIGER AS",
+    "organisasjonsnummer": "312349353",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "HURDAL",
+      "postnummer": "2090",
+      "adresse": ["Skrukkelivegen 49B"],
+      "kommunenummer": "3242",
+      "poststed": "HURDAL"
+    },
+    "naeringBeskrivelse": ["Førskoleundervisning og drift av barnehager"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["85.100"],
+    "navn": "HYGGELIG FYSISK FJELLREV",
+    "organisasjonsnummer": "315480280",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "FROLAND",
+      "postnummer": "4832",
+      "adresse": ["Åstveitveien 500"],
+      "kommunenummer": "4214",
+      "poststed": "MYKLAND"
+    },
+    "naeringBeskrivelse": ["Annen detaljhandel med andre nye varer"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["47.780"],
+    "navn": "REKTANGULÆR FJONG KATT MØBELFORRETNING",
+    "organisasjonsnummer": "215927822",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BERGEN",
+      "postnummer": "5230",
+      "adresse": ["Statsminister Michelsens veg 38"],
+      "kommunenummer": "4601",
+      "poststed": "PARADIS"
+    },
+    "naeringBeskrivelse": ["Utvikling og salg av byggeprosjekter"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["68.120"],
+    "navn": "NONFIGURATIV EMOSJONELL PUMA",
+    "organisasjonsnummer": "312145529",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "TANA",
+      "postnummer": "9841",
+      "adresse": [
+        "c/o GJESTFRISIKKER BYSSE",
+        "Trekantettyðelig Karneval",
+        "Gujá 23"
+      ],
+      "kommunenummer": "5628",
+      "poststed": "TANA"
+    },
+    "naeringBeskrivelse": ["Geologiske undersøkelser"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["71.122"],
+    "navn": "UNG UTTRYKKSFULL TIGER AS",
+    "organisasjonsnummer": "314474104",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "SØR-VARANGER",
+      "postnummer": "9901",
+      "adresse": ["c/o Kjærlig Gretten Ridebukseøy", "Bråten"],
+      "kommunenummer": "5605",
+      "poststed": "KIRKENES"
+    },
+    "naeringBeskrivelse": ["Annen teknisk konsulentvirksomhet", "Hestehold"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["71.129", "01.430"],
+    "navn": "MANGE PRESENTABEL TIGER AS",
+    "organisasjonsnummer": "314459326",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "KAUTOKEINO",
+      "postnummer": "9522",
+      "adresse": ["v/ Episk Egoistisk Gardin", "Plantefeltet"],
+      "kommunenummer": "5612",
+      "poststed": "KAUTOKEINO"
+    },
+    "naeringBeskrivelse": ["Aktiviteter i yrkessammenslutninger"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["94.120"],
+    "navn": "OPPSTEMT MARITIM APE",
+    "organisasjonsnummer": "315832268",
+    "registreringsdatoEnhetsregisteret": "2021-03-20"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "HARSTAD",
+      "postnummer": "9408",
+      "adresse": ["Vollen 44A"],
+      "kommunenummer": "5503",
+      "poststed": "HARSTAD"
+    },
+    "naeringBeskrivelse": ["Produksjon av løfte- og håndteringsutstyr"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["28.220"],
+    "navn": "GOD LITT TIGER AS",
+    "organisasjonsnummer": "315723590",
+    "registreringsdatoEnhetsregisteret": "2021-03-20"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "VADSØ",
+      "postnummer": "9804",
+      "adresse": [
+        "v/ Eventyrligbegeistret Hybelkanin",
+        "Nordvarangerveien 3456"
+      ],
+      "kommunenummer": "5607",
+      "poststed": "VADSØ"
+    },
+    "naeringBeskrivelse": ["Andre egeninvesteringsselskaper"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["64.323"],
+    "navn": "TOM ULTRAFIOLETT TIGER AS",
+    "organisasjonsnummer": "313559181",
+    "registreringsdatoEnhetsregisteret": "2021-03-15"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "RAUMA",
+      "postnummer": "6386",
+      "adresse": ["Øvre Pletten"],
+      "kommunenummer": "1539",
+      "poststed": "MÅNDALEN"
+    },
+    "naeringBeskrivelse": ["Andre helsetjenester ellers"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["86.993"],
+    "navn": "UTTRYKKSFULL TANKEFULL KATT OKSE",
+    "organisasjonsnummer": "314957121",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "HORTEN",
+      "postnummer": "3184",
+      "adresse": ["Raveien 314"],
+      "kommunenummer": "3901",
+      "poststed": "BORRE"
+    },
+    "naeringBeskrivelse": ["Detaljhandel med klær"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["47.710"],
+    "navn": "REFLEKSIV STORARTET TIGER AS",
+    "organisasjonsnummer": "314247469",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0171",
+      "adresse": ["Brandts gate 2D"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": [
+      "Passasjertransport på forespørsel utført av fører med kjøretøy"
+    ],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["49.330"],
+    "navn": "UGJENNOMSIKTIG FINTFØLENDE KATT ÅRSPLAN",
+    "organisasjonsnummer": "311092901",
+    "registreringsdatoEnhetsregisteret": "2021-03-15"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "TRONDHEIM",
+      "postnummer": "7022",
+      "adresse": ["Øvre Ferstadveg 15 E"],
+      "kommunenummer": "5001",
+      "poststed": "TRONDHEIM"
+    },
+    "naeringBeskrivelse": ["Dataprogrammeringstjenester"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["62.100"],
+    "navn": "EVIG TRU KATT KONJUNKSJON",
+    "organisasjonsnummer": "310188778",
+    "registreringsdatoEnhetsregisteret": "2021-03-12"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "KRISTIANSAND",
+      "postnummer": "4643",
+      "adresse": ["Langenesveien 336"],
+      "kommunenummer": "4204",
+      "poststed": "SØGNE"
+    },
+    "naeringBeskrivelse": ["Frisering og barbering"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["96.210"],
+    "navn": "FORMBAR OVEREKSPONERT KATT DROTT",
+    "organisasjonsnummer": "313304469",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "KLEPP",
+      "postnummer": "4343",
+      "adresse": ["Vestre Utmarka"],
+      "kommunenummer": "1120",
+      "poststed": "ORRE"
+    },
+    "naeringBeskrivelse": ["Annen teknisk konsulentvirksomhet"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["71.129"],
+    "navn": "VEIK RIKTIG KATT INGENIØR",
+    "organisasjonsnummer": "311095544",
+    "registreringsdatoEnhetsregisteret": "2021-03-12"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0786",
+      "adresse": ["Måltrostveien 29D"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": ["Utleie av egen eller leid fast eiendom"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["68.200"],
+    "navn": "LIKEGYLDIG USIKKER TIGER AS",
+    "organisasjonsnummer": "215489752",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "LIER",
+      "postnummer": "3413",
+      "adresse": ["Nøstebakken 9B"],
+      "kommunenummer": "3312",
+      "poststed": "LIER"
+    },
+    "naeringBeskrivelse": ["Drift av idrettsanlegg"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["93.110"],
+    "navn": "NYBAKT EKSAKT TIGER AS",
+    "organisasjonsnummer": "312967995",
+    "registreringsdatoEnhetsregisteret": "2021-03-15"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0650",
+      "adresse": ["v/ Sart Jordskorpesynsingbot", "Åkebergveien 24A"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": [
+      "Formidlingstjenester tilknyttet serveringsvirksomhet"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["56.400"],
+    "navn": "BETYDELIG HÅNDFAST KATT KORNSIRKEL",
+    "organisasjonsnummer": "312131528",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BÆRUM",
+      "postnummer": "1346",
+      "adresse": ["Lupinveien 22"],
+      "kommunenummer": "3201",
+      "poststed": "GJETTUM"
+    },
+    "naeringBeskrivelse": ["Undervisning innenfor idrett og rekreasjon"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["85.510"],
+    "navn": "UTHOLDEN KONGE TIGER AS",
+    "organisasjonsnummer": "312115514",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "LILLEHAMMER",
+      "postnummer": "2614",
+      "adresse": ["Flugsrudkroken 25A"],
+      "kommunenummer": "3405",
+      "poststed": "LILLEHAMMER"
+    },
+    "naeringBeskrivelse": ["Annen teknisk konsulentvirksomhet"],
+    "organisasjonsform": {
+      "kode": "AAFY",
+      "beskrivelse": "Underenhet til ikke-næringsdrivende"
+    },
+    "naeringKode": ["71.129"],
+    "navn": "OVERFLADISK ULYDIG TIGER AS KONKURSBO",
+    "organisasjonsnummer": "312010364",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0590",
+      "adresse": ["Østreheimsveien 12"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": [
+      "Kombinerte tjenester tilknyttet eiendomsdrift",
+      "Utleie av egen eller leid fast eiendom"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["81.100", "68.200"],
+    "navn": "ENGASJERT UMODEN TIGER AS",
+    "organisasjonsnummer": "311650777",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "HÅ",
+      "postnummer": "4360",
+      "adresse": ["Hålandsvegen 191"],
+      "kommunenummer": "1119",
+      "poststed": "VARHAUG"
+    },
+    "naeringBeskrivelse": ["Detaljhandel med bøker"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["47.610"],
+    "navn": "MOBIL RELEVANT FJELLREV",
+    "organisasjonsnummer": "311666029",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "MELHUS",
+      "postnummer": "7228",
+      "adresse": ["Ikonnvegen 3"],
+      "kommunenummer": "5028",
+      "poststed": "KVÅL"
+    },
+    "naeringBeskrivelse": [
+      "Passasjertransport på forespørsel utført av fører med kjøretøy"
+    ],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["49.330"],
+    "navn": "GRØNN TROSSIG KATT PUB",
+    "organisasjonsnummer": "313164136",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "HOL",
+      "postnummer": "3580",
+      "adresse": [],
+      "kommunenummer": "3330",
+      "poststed": "GEILO"
+    },
+    "naeringBeskrivelse": ["Utleie av egen eller leid fast eiendom"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["68.200"],
+    "navn": "RETTFERDIG SAMLET FJELLREV",
+    "organisasjonsnummer": "314633857",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "MELØY",
+      "postnummer": "8158",
+      "adresse": ["Søndre Nesetplantefeltet"],
+      "kommunenummer": "1837",
+      "poststed": "BOLGA"
+    },
+    "naeringBeskrivelse": [
+      "Helse- og omsorgstjenester i bofelleskap, samlokaliserte omsorgsboliger og lignende"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["87.106"],
+    "navn": "HYGGELIG EMOSJONELL FJELLREV",
+    "organisasjonsnummer": "314600894",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0257",
+      "adresse": ["Niels Juels gate 25"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": ["Avvirkning"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["02.200"],
+    "navn": "UTHOLDEN SMAL KATT FELLE",
+    "organisasjonsnummer": "314813979",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BERGEN",
+      "postnummer": "5143",
+      "adresse": ["Torgny Segerstedts vei 174"],
+      "kommunenummer": "4601",
+      "poststed": "FYLLINGSDALEN"
+    },
+    "naeringBeskrivelse": [
+      "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler"
+    ],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["47.110"],
+    "navn": "SØT EPISK TIGER AS",
+    "organisasjonsnummer": "313177378",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0258",
+      "adresse": ["Parkveien 33"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": ["Interiørdesignvirksomhet"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["74.130"],
+    "navn": "INTEGRERT KVADRATISK KATT FJÆR",
+    "organisasjonsnummer": "312744783",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0682",
+      "adresse": ["Østensjøveien 126A"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": ["Allmennlegetjenester"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["86.210"],
+    "navn": "TILLITSFULL STILLE TIGER AS",
+    "organisasjonsnummer": "312470403",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "LEVANGER",
+      "postnummer": "7632",
+      "adresse": [],
+      "kommunenummer": "5037",
+      "poststed": "ÅSENFJORD"
+    },
+    "naeringBeskrivelse": ["Aktiviteter i andre medlemsorganisasjoner ellers"],
+    "organisasjonsform": {
+      "kode": "FLI",
+      "beskrivelse": "Forening/lag/innretning"
+    },
+    "naeringKode": ["94.992"],
+    "navn": "IDIOTSIKKER OPPKLARENDE APE",
+    "organisasjonsnummer": "313901793",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "HAUGESUND",
+      "postnummer": "5525",
+      "adresse": ["Breidablikgata 184"],
+      "kommunenummer": "1106",
+      "poststed": "HAUGESUND"
+    },
+    "naeringBeskrivelse": [
+      "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["90.201"],
+    "navn": "UFORGJENGELIG ULASTELIG KATT DESIMETER",
+    "organisasjonsnummer": "315386497",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "TRONDHEIM",
+      "postnummer": "7033",
+      "adresse": ["Indre Moen"],
+      "kommunenummer": "5001",
+      "poststed": "TRONDHEIM"
+    },
+    "naeringBeskrivelse": [
+      "Dyrking av korn, unntatt ris, belgvekster og oljeholdige vekster"
+    ],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["01.110"],
+    "navn": "ULLEN LYSEBLÅ KATT MASEKOPP",
+    "organisasjonsnummer": "312277042",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "LYNGDAL",
+      "postnummer": "4580",
+      "adresse": ["Seljeveien 5"],
+      "kommunenummer": "4225",
+      "poststed": "LYNGDAL"
+    },
+    "naeringBeskrivelse": ["Regnskapsføring og bokføring"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["69.202"],
+    "navn": "OVEREKSPONERT SMUL KATT KAIE",
+    "organisasjonsnummer": "312413337",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "LILLESTRØM",
+      "postnummer": "1900",
+      "adresse": ["Faldalsveien 1"],
+      "kommunenummer": "3205",
+      "poststed": "FETSUND"
+    },
+    "naeringBeskrivelse": ["Fotografvirksomhet"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["74.200"],
+    "navn": "FORNUFTIG TENTATIV KATT BORD",
+    "organisasjonsnummer": "210927182",
+    "registreringsdatoEnhetsregisteret": "2021-03-12"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "VINJE",
+      "postnummer": "3864",
+      "adresse": ["Rindevegen 19"],
+      "kommunenummer": "4036",
+      "poststed": "RAULAND"
+    },
+    "naeringBeskrivelse": [
+      "All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["74.990"],
+    "navn": "GNIEN USNOBBET TIGER AS",
+    "organisasjonsnummer": "315386306",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "STEIGEN",
+      "postnummer": "8285",
+      "adresse": ["Oterstien 2"],
+      "kommunenummer": "1848",
+      "poststed": "LEINES"
+    },
+    "naeringBeskrivelse": ["Aktiviteter i idrettslag og -klubber"],
+    "organisasjonsform": {
+      "kode": "AAFY",
+      "beskrivelse": "Underenhet til ikke-næringsdrivende"
+    },
+    "naeringKode": ["93.120"],
+    "navn": "UINSPIRERT ELASTISK APE",
+    "organisasjonsnummer": "311502697",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ÅS",
+      "postnummer": "1407",
+      "adresse": ["Svalestien 50"],
+      "kommunenummer": "3218",
+      "poststed": "VINTERBRO"
+    },
+    "naeringBeskrivelse": ["Utleie av egen eller leid fast eiendom"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["68.200"],
+    "navn": "GOD SOFISTIKERT TIGER AS",
+    "organisasjonsnummer": "214222892",
+    "registreringsdatoEnhetsregisteret": "2021-03-15"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "SANDEFJORD",
+      "postnummer": "3214",
+      "adresse": ["v/ Tøffminst Interessant Takke", "Planteskolen 8"],
+      "kommunenummer": "3907",
+      "poststed": "SANDEFJORD"
+    },
+    "naeringBeskrivelse": ["Annen virksomhet for distribuering av innhold"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["60.390"],
+    "navn": "MISFORNØYD KVADRATISK TIGER AS",
+    "organisasjonsnummer": "313555356",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "HERØY",
+      "postnummer": "8842",
+      "adresse": ["Ytre Leirenkvervet"],
+      "kommunenummer": "1818",
+      "poststed": "BRASØY"
+    },
+    "naeringBeskrivelse": ["Ferdiggjøring før trykking og publisering"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["18.130"],
+    "navn": "STØYFRI GUL KATT SJIRAFF",
+    "organisasjonsnummer": "313292754",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "GILDESKÅL",
+      "postnummer": "8140",
+      "adresse": ["Skoleveien 17"],
+      "kommunenummer": "1838",
+      "poststed": "INNDYR"
+    },
+    "naeringBeskrivelse": ["Reparasjon og vedlikehold av motorvogner"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["95.310"],
+    "navn": "PATENT ANSVARSFULL TIGER AS",
+    "organisasjonsnummer": "313309495",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ALVER",
+      "postnummer": "5912",
+      "adresse": ["Vestre Høyden"],
+      "kommunenummer": "4631",
+      "poststed": "SEIM"
+    },
+    "naeringBeskrivelse": ["Utleie av egen eller leid fast eiendom"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["68.200"],
+    "navn": "STRIDLYNT LEDENDE TIGER AS",
+    "organisasjonsnummer": "312764903",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0257",
+      "adresse": ["Meltzers gate 7"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": ["Maler- og glassarbeid"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["43.340"],
+    "navn": "RUND VIS TIGER AS",
+    "organisasjonsnummer": "314414837",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "SOGNDAL",
+      "postnummer": "6856",
+      "adresse": ["Stedjeåsen 68"],
+      "kommunenummer": "4640",
+      "poststed": "SOGNDAL"
+    },
+    "naeringBeskrivelse": ["Kjøp og salg av egen fast eiendom"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["68.110"],
+    "navn": "SKY FARLIG TIGER AS",
+    "organisasjonsnummer": "310034827",
+    "registreringsdatoEnhetsregisteret": "2021-03-15"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "LØRENSKOG",
+      "postnummer": "1470",
+      "adresse": ["Fjellveien 63B"],
+      "kommunenummer": "3222",
+      "poststed": "LØRENSKOG"
+    },
+    "naeringBeskrivelse": ["Melkeproduksjon på storfe og oppdrett av melkekyr"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["01.410"],
+    "navn": "OVERFLADISK URETTFERDIG KATT BUDEIE",
+    "organisasjonsnummer": "310436992",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "LEVANGER",
+      "postnummer": "7604",
+      "adresse": ["Trekanten 3"],
+      "kommunenummer": "5037",
+      "poststed": "LEVANGER"
+    },
+    "naeringBeskrivelse": ["Andre egeninvesteringsselskaper"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["64.323"],
+    "navn": "FLYKTIG PLUTSELIG TIGER AS",
+    "organisasjonsnummer": "312736152",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "KRISTIANSAND",
+      "postnummer": "4623",
+      "adresse": ["Andøysløyfen 77"],
+      "kommunenummer": "4204",
+      "poststed": "KRISTIANSAND S"
+    },
+    "naeringBeskrivelse": ["Grafisk design og visuell kommunikasjonsdesign"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["74.120"],
+    "navn": "TØRST AKVATISK KATT BJELKE",
+    "organisasjonsnummer": "311047426",
+    "registreringsdatoEnhetsregisteret": "2021-03-12"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "KRISTIANSAND",
+      "postnummer": "4634",
+      "adresse": ["Soleieveien 49"],
+      "kommunenummer": "4204",
+      "poststed": "KRISTIANSAND S"
+    },
+    "naeringBeskrivelse": ["Frisering og barbering"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["96.210"],
+    "navn": "UPOPULÆR UGLESETT KATT JERV",
+    "organisasjonsnummer": "315192749",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "DRAMMEN",
+      "postnummer": "3057",
+      "adresse": ["Myrabakken 6"],
+      "kommunenummer": "3301",
+      "poststed": "SOLBERGELVA"
+    },
+    "naeringBeskrivelse": [
+      "Bedriftsrådgivning og annen administrativ rådgivning"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["70.200"],
+    "navn": "MELANKOLSK GJESTFRI TIGER AS",
+    "organisasjonsnummer": "311957856",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0590",
+      "adresse": [
+        "c/o GNIEN BEFAL",
+        "Varsom Sprudlende Prest",
+        "Årvollveien 35"
+      ],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": ["Verdipapirfond"],
+    "organisasjonsform": {
+      "kode": "VPFO",
+      "beskrivelse": "Verdipapirfond"
+    },
+    "naeringKode": ["64.311"],
+    "navn": "VERDIPAPIRFONDET VENSTRE SIVILISERT KENGURU",
+    "organisasjonsnummer": "312666332",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "RINGSAKER",
+      "postnummer": "2383",
+      "adresse": ["Nordre Strømmen"],
+      "kommunenummer": "3411",
+      "poststed": "BRUMUNDDAL"
+    },
+    "naeringBeskrivelse": ["Utleie av egen eller leid fast eiendom"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["68.200"],
+    "navn": "SMIGRENDE NONFIGURATIV TIGER AS",
+    "organisasjonsnummer": "312375044",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BÆRUM",
+      "postnummer": "1337",
+      "adresse": ["Solhaugveien 25"],
+      "kommunenummer": "3201",
+      "poststed": "SANDVIKA"
+    },
+    "naeringBeskrivelse": ["Ordinær grunnskoleundervisning"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["85.201"],
+    "navn": "EKSPLOSIV BLOMSTRETE FJELLREV",
+    "organisasjonsnummer": "311989987",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "1086",
+      "adresse": ["Folkvangveien 2 A"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": [
+      "Skapende kunstnerisk virksomhet innenfor litteratur"
+    ],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["90.111"],
+    "navn": "MUSIKALSK GRUNN KATT SKADE",
+    "organisasjonsnummer": "313142701",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "PORSGRUNN",
+      "postnummer": "3943",
+      "adresse": ["Hvalenkroken 4"],
+      "kommunenummer": "4001",
+      "poststed": "PORSGRUNN"
+    },
+    "naeringBeskrivelse": ["Eiendomsforvaltning på oppdrag"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["68.320"],
+    "navn": "TEORETISK HEL TIGER AS",
+    "organisasjonsnummer": "315936500",
+    "registreringsdatoEnhetsregisteret": "2021-03-20"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BÆRUM",
+      "postnummer": "1351",
+      "adresse": ["v/ Moralsk Spesifikk Gjær", "Baker Østbys vei 17"],
+      "kommunenummer": "3201",
+      "poststed": "RUD"
+    },
+    "naeringBeskrivelse": ["Aktiviteter i idrettslag og -klubber"],
+    "organisasjonsform": {
+      "kode": "FLI",
+      "beskrivelse": "Forening/lag/innretning"
+    },
+    "naeringKode": ["93.120"],
+    "navn": "UVIRKSOM OVERFLADISK APE",
+    "organisasjonsnummer": "311161024",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "LUNNER",
+      "postnummer": "2730",
+      "adresse": ["Østre Kroken"],
+      "kommunenummer": "3234",
+      "poststed": "LUNNER"
+    },
+    "naeringBeskrivelse": ["Avvirkning"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["02.200"],
+    "navn": "DIVERSE KONVENSJONELL KATT DIODE",
+    "organisasjonsnummer": "310130257",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "STEINKJER",
+      "postnummer": "7716",
+      "adresse": ["Helgesvegen 76"],
+      "kommunenummer": "5006",
+      "poststed": "STEINKJER"
+    },
+    "naeringBeskrivelse": ["Arkitektvirksomhet"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["71.110"],
+    "navn": "LØSNINGSORIENTERT KURSIV TIGER AS",
+    "organisasjonsnummer": "314414896",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "RINGERIKE",
+      "postnummer": "3515",
+      "adresse": ["Westheims gate 21"],
+      "kommunenummer": "3305",
+      "poststed": "HØNEFOSS"
+    },
+    "naeringBeskrivelse": [
+      "Reisebyråvirksomhet",
+      "Drift av vandrerhjem og ferieleiligheter"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["79.110", "55.200"],
+    "navn": "TENTATIV GYLDEN TIGER AS",
+    "organisasjonsnummer": "314454472",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "NORDKAPP",
+      "postnummer": "9750",
+      "adresse": ["Laksefjordgata 5A"],
+      "kommunenummer": "5620",
+      "poststed": "HONNINGSVÅG"
+    },
+    "naeringBeskrivelse": ["Utleie av egen eller leid fast eiendom"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["68.200"],
+    "navn": "TANKEFULL HUSLØS KATT FRUKT",
+    "organisasjonsnummer": "213639692",
+    "registreringsdatoEnhetsregisteret": "2021-03-12"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "NITTEDAL",
+      "postnummer": "1484",
+      "adresse": ["Gamleveien 323"],
+      "kommunenummer": "3232",
+      "poststed": "HAKADAL"
+    },
+    "naeringBeskrivelse": [],
+    "organisasjonsform": {
+      "kode": "ESEK",
+      "beskrivelse": "Eierseksjonssameie"
+    },
+    "naeringKode": [],
+    "navn": "SAMEIET ENKEL TILLITSFULL LØVE",
+    "organisasjonsnummer": "311803247",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BÆRUM",
+      "postnummer": "1366",
+      "adresse": ["c/o Akseptabel Fjord", "Fornebuveien 37"],
+      "kommunenummer": "3201",
+      "poststed": "LYSAKER"
+    },
+    "naeringBeskrivelse": ["VVS-arbeid"],
+    "organisasjonsform": {
+      "kode": "NUF",
+      "beskrivelse": "Norskregistrert utenlandsk foretak"
+    },
+    "naeringKode": ["43.220"],
+    "navn": "HÅNDFAST ALVORLIG STRUTS AB",
+    "organisasjonsnummer": "312763230",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "1170",
+      "adresse": ["Axel Huitfeldts vei 8"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": [
+      "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["86.930"],
+    "navn": "URETTFERDIG LIVSGLAD KATT BUKSESELE",
+    "organisasjonsnummer": "315596998",
+    "registreringsdatoEnhetsregisteret": "2021-03-20"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "EIDSKOG",
+      "postnummer": "2220",
+      "adresse": ["Langfossvegen 18"],
+      "kommunenummer": "3416",
+      "poststed": "ÅBOGEN"
+    },
+    "naeringBeskrivelse": [
+      "Annen spesialisert byggevirksomhet i forbindelse med oppføring av bygninger"
+    ],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["43.420"],
+    "navn": "BERØMT MISFORNØYD KATT BYSSE",
+    "organisasjonsnummer": "310481211",
+    "registreringsdatoEnhetsregisteret": "2021-03-12"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "NARVIK",
+      "postnummer": "8530",
+      "adresse": ["Storelva 41"],
+      "kommunenummer": "1806",
+      "poststed": "BJERKVIK"
+    },
+    "naeringBeskrivelse": ["Frisering og barbering"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["96.210"],
+    "navn": "EVENTYRLIG VRIEN KATT MÅNE",
+    "organisasjonsnummer": "310785024",
+    "registreringsdatoEnhetsregisteret": "2021-03-12"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "KRISTIANSUND",
+      "postnummer": "6523",
+      "adresse": ["Fagerlia 9"],
+      "kommunenummer": "1505",
+      "poststed": "FREI"
+    },
+    "naeringBeskrivelse": ["Undervisning innenfor idrett og rekreasjon"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["85.510"],
+    "navn": "SLAKK FORSTÅELSESFULL KATT OMELETT",
+    "organisasjonsnummer": "310741264",
+    "registreringsdatoEnhetsregisteret": "2021-03-12"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "NAMSOS",
+      "postnummer": "7856",
+      "adresse": ["Indre Nylandet"],
+      "kommunenummer": "5007",
+      "poststed": "JØA"
+    },
+    "naeringBeskrivelse": ["Filmfremvisning"],
+    "organisasjonsform": {
+      "kode": "FLI",
+      "beskrivelse": "Forening/lag/innretning"
+    },
+    "naeringKode": ["59.140"],
+    "navn": "NESNØDD AUTORISERT APE",
+    "organisasjonsnummer": "313615901",
+    "registreringsdatoEnhetsregisteret": "2021-03-15"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BÆRUM",
+      "postnummer": "1362",
+      "adresse": ["Wilh. Wilhelmsens vei 110"],
+      "kommunenummer": "3201",
+      "poststed": "HOSLE"
+    },
+    "naeringBeskrivelse": ["Undervisning innenfor idrett og rekreasjon"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["85.510"],
+    "navn": "STANDHAFTIG NESTE KATT HANDELSMANN",
+    "organisasjonsnummer": "315079950",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BERGEN",
+      "postnummer": "5258",
+      "adresse": ["Fleslandsvegen 32"],
+      "kommunenummer": "4601",
+      "poststed": "BLOMSTERDALEN"
+    },
+    "naeringBeskrivelse": ["Allmennlegetjenester"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["86.210"],
+    "navn": "OPPKLARENDE KLAM FJELLREV",
+    "organisasjonsnummer": "314573641",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ULLENSVANG",
+      "postnummer": "5781",
+      "adresse": ["Hordatunvegen 12"],
+      "kommunenummer": "4618",
+      "poststed": "LOFTHUS"
+    },
+    "naeringBeskrivelse": ["Frisering og barbering"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["96.210"],
+    "navn": "UFORNUFTIG SVIMMEL TIGER AS",
+    "organisasjonsnummer": "310293342",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "STOR-ELVDAL",
+      "postnummer": "2477",
+      "adresse": ["Lyngstadveien 787"],
+      "kommunenummer": "3423",
+      "poststed": "SOLLIA"
+    },
+    "naeringBeskrivelse": ["Kjøp og salg av egen fast eiendom"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["68.110"],
+    "navn": "ULTRAFIOLETT STOR TIGER AS",
+    "organisasjonsnummer": "310292141",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "TANA",
+      "postnummer": "9844",
+      "adresse": ["Polmakveien 961"],
+      "kommunenummer": "5628",
+      "poststed": "TANA"
+    },
+    "naeringBeskrivelse": ["Detaljhandel med sportsvarer"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["47.631"],
+    "navn": "BESKJEDEN TILFELDIG KATT BJELKE",
+    "organisasjonsnummer": "311784471",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "LØRENSKOG",
+      "postnummer": "1461",
+      "adresse": ["Perstunet 14"],
+      "kommunenummer": "3222",
+      "poststed": "LØRENSKOG"
+    },
+    "naeringBeskrivelse": [
+      "Kabelbasert, satellittbasert og trådløs telekommunikasjon"
+    ],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["61.100"],
+    "navn": "FRYKTLØS FATTIG TIGER AS",
+    "organisasjonsnummer": "310843490",
+    "registreringsdatoEnhetsregisteret": "2021-03-15"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BREMANGER",
+      "postnummer": "6734",
+      "adresse": ["Nordre Elva"],
+      "kommunenummer": "4648",
+      "poststed": "RUGSUND"
+    },
+    "naeringBeskrivelse": ["Fysioterapi- og ergoterapitjenester"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["86.950"],
+    "navn": "KLOK URETTFERDIG KATT EPLEKAKE",
+    "organisasjonsnummer": "312333805",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "HALDEN",
+      "postnummer": "1777",
+      "adresse": ["Georg Stangs gate 2"],
+      "kommunenummer": "3101",
+      "poststed": "HALDEN"
+    },
+    "naeringBeskrivelse": [
+      "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer"
+    ],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["62.200"],
+    "navn": "REALISTISK TYPISK TIGER AS",
+    "organisasjonsnummer": "310076821",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "SOKNDAL",
+      "postnummer": "4380",
+      "adresse": ["Tothammer 7"],
+      "kommunenummer": "1111",
+      "poststed": "HAUGE I DALANE"
+    },
+    "naeringBeskrivelse": [
+      "Bedriftsrådgivning og annen administrativ rådgivning"
+    ],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["70.200"],
+    "navn": "LYS MEDGJØRLIG KATT HAM",
+    "organisasjonsnummer": "312394642",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "FÆRDER",
+      "postnummer": "3121",
+      "adresse": ["Thueveien 22"],
+      "kommunenummer": "3911",
+      "poststed": "NØTTERØY"
+    },
+    "naeringBeskrivelse": ["Engroshandel med andre husholdningsvarer"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["46.490"],
+    "navn": "FORNEM KONTANT TIGER AS",
+    "organisasjonsnummer": "313001393",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "LILLESTRØM",
+      "postnummer": "2016",
+      "adresse": ["Ausenveien 52"],
+      "kommunenummer": "3205",
+      "poststed": "FROGNER"
+    },
+    "naeringBeskrivelse": ["Andre helsetjenester ellers"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["86.993"],
+    "navn": "MINIMALISTISK REKTANGULÆR KATT AMBULANSE",
+    "organisasjonsnummer": "310608416",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ASKER",
+      "postnummer": "3472",
+      "adresse": ["Skjellsandveien 7"],
+      "kommunenummer": "3203",
+      "poststed": "BØDALEN"
+    },
+    "naeringBeskrivelse": ["Produksjon av skotøy"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["15.200"],
+    "navn": "NYBAKT FASCINERENDE TIGER AS",
+    "organisasjonsnummer": "215307182",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "adresse": []
+    },
+    "naeringBeskrivelse": [
+      "Engroshandel med tømmer, trelast, byggevarer og sanitærutstyr"
+    ],
+    "organisasjonsform": {
+      "kode": "NUF",
+      "beskrivelse": "Norskregistrert utenlandsk foretak"
+    },
+    "naeringKode": ["46.830"],
+    "navn": "GÅEN RU STRUTS AB",
+    "organisasjonsnummer": "213300482",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "VESTBY",
+      "postnummer": "1555",
+      "adresse": ["Kvartsveien 53"],
+      "kommunenummer": "3216",
+      "poststed": "SON"
+    },
+    "naeringBeskrivelse": ["Utleie av egen eller leid fast eiendom"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["68.200"],
+    "navn": "UPRESIS KVART TIGER AS",
+    "organisasjonsnummer": "310855243",
+    "registreringsdatoEnhetsregisteret": "2021-03-15"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "FÆRDER",
+      "postnummer": "3145",
+      "adresse": ["Neholmveien 46"],
+      "kommunenummer": "3911",
+      "poststed": "TJØME"
+    },
+    "naeringBeskrivelse": [
+      "Skapende kunstnerisk virksomhet innenfor litteratur"
+    ],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["90.111"],
+    "navn": "TRÅDLØS STØYFRI KATT ARBEIDSDAG",
+    "organisasjonsnummer": "312692910",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ÅLESUND",
+      "postnummer": "6012",
+      "adresse": ["c/o Viktig Natur", "Syvermarka 52"],
+      "kommunenummer": "1508",
+      "poststed": "ÅLESUND"
+    },
+    "naeringBeskrivelse": ["Utleie av egen eller leid fast eiendom"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["68.200"],
+    "navn": "FALSK GRÅ TIGER AS",
+    "organisasjonsnummer": "313490009",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BÆRUM",
+      "postnummer": "1363",
+      "adresse": ["v/ Ugjennomsiktig Plyndring", "Lindhaugsvingen 20"],
+      "kommunenummer": "3201",
+      "poststed": "HØVIK"
+    },
+    "naeringBeskrivelse": ["Aktiviteter i borettslag og boligsameier"],
+    "organisasjonsform": {
+      "kode": "AAFY",
+      "beskrivelse": "Underenhet til ikke-næringsdrivende"
+    },
+    "naeringKode": ["97.001"],
+    "navn": "OPPLAGT OMKOMMEN LØVE SAMEIE",
+    "organisasjonsnummer": "312369869",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "TVEDESTRAND",
+      "postnummer": "4910",
+      "adresse": ["Søndre Platåetkroken"],
+      "kommunenummer": "4213",
+      "poststed": "LYNGØR"
+    },
+    "naeringBeskrivelse": ["Førskoleundervisning og drift av barnehager"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["85.100"],
+    "navn": "GJENNOMSIKTIG UTHOLDEN FJELLREV",
+    "organisasjonsnummer": "315108098",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "KÅFJORD",
+      "postnummer": "9146",
+      "adresse": ["Hammarneset 15"],
+      "kommunenummer": "5540",
+      "poststed": "OLDERDALEN"
+    },
+    "naeringBeskrivelse": ["Dataprogrammeringstjenester"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["62.100"],
+    "navn": "SUBJEKTIV RIK KATT BUTIKK",
+    "organisasjonsnummer": "313244814",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ORKLAND",
+      "postnummer": "7300",
+      "adresse": ["Ingridbakken 11"],
+      "kommunenummer": "5059",
+      "poststed": "ORKANGER"
+    },
+    "naeringBeskrivelse": ["Aktiviteter i idrettslag og -klubber"],
+    "organisasjonsform": {
+      "kode": "FLI",
+      "beskrivelse": "Forening/lag/innretning"
+    },
+    "naeringKode": ["93.120"],
+    "navn": "UROLIG VISSEN APE",
+    "organisasjonsnummer": "313683133",
+    "registreringsdatoEnhetsregisteret": "2021-03-15"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ASKØY",
+      "postnummer": "5306",
+      "adresse": ["Brusegårdsvegen 17B"],
+      "kommunenummer": "4627",
+      "poststed": "ERDAL"
+    },
+    "naeringBeskrivelse": ["Generell offentlig administrasjon"],
+    "organisasjonsform": {
+      "kode": "ORGL",
+      "beskrivelse": "Organisasjonsledd"
+    },
+    "naeringKode": ["84.110"],
+    "navn": "PLUTSELIG OVERBEVISENDE PIGGSVIN",
+    "organisasjonsnummer": "313871479",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0667",
+      "adresse": ["Peter Aas' vei 22"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": ["Annen teknisk konsulentvirksomhet"],
+    "organisasjonsform": {
+      "kode": "NUF",
+      "beskrivelse": "Norskregistrert utenlandsk foretak"
+    },
+    "naeringKode": ["71.129"],
+    "navn": "RELEVANT AKTPÅGIVENDE STRUTS LTD",
+    "organisasjonsnummer": "313571661",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "SKIEN",
+      "postnummer": "3716",
+      "adresse": ["Mælagata nord 89B"],
+      "kommunenummer": "4003",
+      "poststed": "SKIEN"
+    },
+    "naeringBeskrivelse": ["Utleie av egen eller leid fast eiendom"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["68.200"],
+    "navn": "LILLA TILFELDIG TIGER AS",
+    "organisasjonsnummer": "312720558",
+    "registreringsdatoEnhetsregisteret": "2021-03-15"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "LILLESTRØM",
+      "postnummer": "2003",
+      "adresse": ["Badeveien 4"],
+      "kommunenummer": "3205",
+      "poststed": "LILLESTRØM"
+    },
+    "naeringBeskrivelse": ["Oppføring av bygninger"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["41.000"],
+    "navn": "ETTERPÅKLOK ALFABETISK KATT BLOKKFLØYTE",
+    "organisasjonsnummer": "311763601",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "VESTBY",
+      "postnummer": "1542",
+      "adresse": ["Gretes vei 44B"],
+      "kommunenummer": "3216",
+      "poststed": "VESTBY"
+    },
+    "naeringBeskrivelse": ["Maler- og glassarbeid"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["43.340"],
+    "navn": "TYPISK GRÅ KATT ESPRESSO",
+    "organisasjonsnummer": "311186736",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ASKER",
+      "postnummer": "3490",
+      "adresse": ["Knivsfjellveien 6"],
+      "kommunenummer": "3203",
+      "poststed": "KLOKKARSTUA"
+    },
+    "naeringBeskrivelse": ["Oppføring av bygninger"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["41.000"],
+    "navn": "VARM STYRBAR TIGER AS",
+    "organisasjonsnummer": "312662469",
+    "registreringsdatoEnhetsregisteret": "2021-03-17"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "HOL",
+      "postnummer": "3593",
+      "adresse": ["Nordre Smugetplatået"],
+      "kommunenummer": "3330",
+      "poststed": "USTAOSET"
+    },
+    "naeringBeskrivelse": [
+      "Videregående opplæring innenfor studieforberedende utdanningsprogram"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["85.310"],
+    "navn": "UKJENT LETT FJELLREV",
+    "organisasjonsnummer": "314652177",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "HOLMESTRAND",
+      "postnummer": "3080",
+      "adresse": ["Nyveien 10"],
+      "kommunenummer": "3903",
+      "poststed": "HOLMESTRAND"
+    },
+    "naeringBeskrivelse": [
+      "Annen spesialisert byggevirksomhet i forbindelse med oppføring av bygninger"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["43.420"],
+    "navn": "UVITENDE FORMBAR KATT OLDEFAR",
+    "organisasjonsnummer": "315440793",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0673",
+      "adresse": ["Vestre Moen"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": ["Utvikling og salg av byggeprosjekter"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["68.120"],
+    "navn": "PRODUKTIV TAUS TIGER AS",
+    "organisasjonsnummer": "211168382",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0353",
+      "adresse": ["c/o Úng Vogge", "Professor Dahls gate 37"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": ["Uoppgitt"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["00.000"],
+    "navn": "STORARTET UTØRST TIGER AS",
+    "organisasjonsnummer": "312072386",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "VANYLVEN",
+      "postnummer": "6142",
+      "adresse": ["Ytre Strøket"],
+      "kommunenummer": "1511",
+      "poststed": "EIDSÅ"
+    },
+    "naeringBeskrivelse": ["Oppføring av bygninger"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["41.000"],
+    "navn": "REAL HÅRSÅR TIGER AS",
+    "organisasjonsnummer": "314442679",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "HARAM",
+      "postnummer": "6265",
+      "adresse": ["Smedbakken 1"],
+      "kommunenummer": "1580",
+      "poststed": "VATNE"
+    },
+    "naeringBeskrivelse": ["Kulturskoleundervisning til barn og unge"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["85.521"],
+    "navn": "KURSIV AKTVERDIG FJELLREV",
+    "organisasjonsnummer": "214712792",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "SANDNES",
+      "postnummer": "4321",
+      "adresse": ["Vindmøllhagen 15"],
+      "kommunenummer": "1108",
+      "poststed": "SANDNES"
+    },
+    "naeringBeskrivelse": [
+      "Agenturhandel med møbler, husholdningsvarer og jernvarer"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["46.150"],
+    "navn": "SNAKKESALIG FIKTIV KATT BREGNE",
+    "organisasjonsnummer": "315610214",
+    "registreringsdatoEnhetsregisteret": "2021-03-20"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "HØYANGER",
+      "postnummer": "6993",
+      "adresse": ["Øvrevegen 6"],
+      "kommunenummer": "4638",
+      "poststed": "HØYANGER"
+    },
+    "naeringBeskrivelse": ["Regnskapsføring og bokføring"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["69.202"],
+    "navn": "TØRST UROKKELIG TIGER AS",
+    "organisasjonsnummer": "313468909",
+    "registreringsdatoEnhetsregisteret": "2021-03-14"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "GLOPPEN",
+      "postnummer": "6823",
+      "adresse": ["Øvre Nordstranda 154"],
+      "kommunenummer": "4650",
+      "poststed": "SANDANE"
+    },
+    "naeringBeskrivelse": ["Rengjøring av bygninger"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["81.210"],
+    "navn": "FORETAKSOM RING FJELLREV",
+    "organisasjonsnummer": "215229432",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "GJERDRUM",
+      "postnummer": "2022",
+      "adresse": [],
+      "kommunenummer": "3230",
+      "poststed": "GJERDRUM"
+    },
+    "naeringBeskrivelse": [
+      "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+    ],
+    "organisasjonsform": {
+      "kode": "FLI",
+      "beskrivelse": "Forening/lag/innretning"
+    },
+    "naeringKode": ["90.201"],
+    "navn": "SYMPATISK TREG APE",
+    "organisasjonsnummer": "312953870",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "FÆRDER",
+      "postnummer": "3145",
+      "adresse": ["Hulebakveien 34"],
+      "kommunenummer": "3911",
+      "poststed": "TJØME"
+    },
+    "naeringBeskrivelse": [
+      "Passasjertransport på forespørsel utført av fører med kjøretøy"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["49.330"],
+    "navn": "INKLUDERENDE DYKTIG KATT HJELPELINJE",
+    "organisasjonsnummer": "314788087",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "SULDAL",
+      "postnummer": "4244",
+      "adresse": [],
+      "kommunenummer": "1134",
+      "poststed": "NESFLATEN"
+    },
+    "naeringBeskrivelse": ["Utleie av egen eller leid fast eiendom"],
+    "organisasjonsform": {
+      "kode": "BA",
+      "beskrivelse": "Selskap med begrenset ansvar"
+    },
+    "naeringKode": ["68.200"],
+    "navn": "NÆR SJELDEN SKILPADDE AL",
+    "organisasjonsnummer": "310356166",
+    "registreringsdatoEnhetsregisteret": "2021-03-12"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "SENJA",
+      "postnummer": "9303",
+      "adresse": ["Vikaveien 230"],
+      "kommunenummer": "5530",
+      "poststed": "SILSAND"
+    },
+    "naeringBeskrivelse": ["Annen teknisk konsulentvirksomhet"],
+    "organisasjonsform": {
+      "kode": "AAFY",
+      "beskrivelse": "Underenhet til ikke-næringsdrivende"
+    },
+    "naeringKode": ["71.129"],
+    "navn": "PARISK IMPULSIV STRUTS LTD",
+    "organisasjonsnummer": "315941954",
+    "registreringsdatoEnhetsregisteret": "2021-03-20"
+  },
+  {
+    "forretningsadresse": {
+      "adresse": ["Østre Nylandet"],
+      "poststed": "44-200 Tarnów"
+    },
+    "naeringBeskrivelse": [
+      "Annen spesialisert byggevirksomhet i forbindelse med oppføring av bygninger"
+    ],
+    "organisasjonsform": {
+      "kode": "AAFY",
+      "beskrivelse": "Underenhet til ikke-næringsdrivende"
+    },
+    "naeringKode": ["43.420"],
+    "navn": "TREG SORGLØS STRUTS SP.Z.O.O",
+    "organisasjonsnummer": "314458389",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BERGEN",
+      "postnummer": "5174",
+      "adresse": [
+        "v/ Idiotsikker Fasttelefonjubilant",
+        "Håkonshellaveien 146B"
+      ],
+      "kommunenummer": "4601",
+      "poststed": "MATHOPEN"
+    },
+    "naeringBeskrivelse": [],
+    "organisasjonsform": {
+      "kode": "ESEK",
+      "beskrivelse": "Eierseksjonssameie"
+    },
+    "naeringKode": [],
+    "navn": "SAMEIET ROMANTISK ANSVARSFULL LØVE",
+    "organisasjonsnummer": "311778471",
+    "registreringsdatoEnhetsregisteret": "2021-03-15"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "TRONDHEIM",
+      "postnummer": "7055",
+      "adresse": ["Ranheimsvegen 137"],
+      "kommunenummer": "5001",
+      "poststed": "RANHEIM"
+    },
+    "naeringBeskrivelse": ["Utleie av egen eller leid fast eiendom"],
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap"
+    },
+    "naeringKode": ["68.200"],
+    "navn": "SVIMMEL ØKONOMISK TIGER AS",
+    "organisasjonsnummer": "310729191",
+    "registreringsdatoEnhetsregisteret": "2021-03-16"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "VINDAFJORD",
+      "postnummer": "5580",
+      "adresse": ["Sandeidvegen 321"],
+      "kommunenummer": "1160",
+      "poststed": "ØLEN"
+    },
+    "naeringBeskrivelse": [
+      "Bedriftsrådgivning og annen administrativ rådgivning"
+    ],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["70.200"],
+    "navn": "LYSEGRØNN MOTSTANDSDYKTIG TIGER AS",
+    "organisasjonsnummer": "314782216",
+    "registreringsdatoEnhetsregisteret": "2021-03-19"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "OSLO",
+      "postnummer": "0950",
+      "adresse": ["v/ Kulplutselig Oriental Paraply", "Elva"],
+      "kommunenummer": "0301",
+      "poststed": "OSLO"
+    },
+    "naeringBeskrivelse": ["Uttak fra kilde, rensing og distribusjon av vann"],
+    "organisasjonsform": {
+      "kode": "SA",
+      "beskrivelse": "Samvirkeforetak"
+    },
+    "naeringKode": ["36.000"],
+    "navn": "TAUS ULOGISK ISBJØRN SA",
+    "organisasjonsnummer": "312794772",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "BERGEN",
+      "postnummer": "5136",
+      "adresse": ["Naustvegen 35"],
+      "kommunenummer": "4601",
+      "poststed": "MJØLKERÅEN"
+    },
+    "naeringBeskrivelse": [
+      "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+    ],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["90.201"],
+    "navn": "ULTRAFIOLETT BEVISST KATT BEFOLKNING",
+    "organisasjonsnummer": "310601888",
+    "registreringsdatoEnhetsregisteret": "2021-03-12"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "LEVANGER",
+      "postnummer": "7603",
+      "adresse": ["Svend Svendsens veg 9"],
+      "kommunenummer": "5037",
+      "poststed": "LEVANGER"
+    },
+    "naeringBeskrivelse": ["Geologiske undersøkelser"],
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak"
+    },
+    "naeringKode": ["71.122"],
+    "navn": "IDIOTSIKKER INTERESSERT KATT VETERINÆR",
+    "organisasjonsnummer": "312684152",
+    "registreringsdatoEnhetsregisteret": "2021-03-13"
+  },
+  {
+    "forretningsadresse": {
+      "kommune": "ULLENSAKER",
+      "postnummer": "2067",
+      "adresse": ["Trondheimsvegen - Jessheim 207"],
+      "kommunenummer": "3209",
+      "poststed": "JESSHEIM"
+    },
+    "naeringBeskrivelse": ["Godstransport på vei"],
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Underenhet til næringsdrivende og offentlig forvaltning"
+    },
+    "naeringKode": ["49.410"],
+    "navn": "EPISK NYSGJERRIG TIGER AS",
+    "organisasjonsnummer": "311539310",
+    "registreringsdatoEnhetsregisteret": "2021-03-18"
+  }
+]
